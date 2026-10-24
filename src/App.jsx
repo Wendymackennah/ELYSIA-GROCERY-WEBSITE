@@ -839,3 +839,5 @@ function App() {
 }
 
 export default App;
+
+//This is the main website. It contains the navigation, hero section, category filters, product cards, favourites, search, shopping cart and footer.
